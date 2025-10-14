@@ -1,6 +1,6 @@
 # OKC-Thunder-Schedule-Analysis
 OKC Thunder Schedule Analysis Project | Python, Pandas, Seaborn, Plotly, sklearn
-August 2025
+(August 2025)
 
 - Completed a data analysis project analyzing scheduling in the NBA for the 2025 NBA champions, the OKC Thunder, as part of their recruiting process.
 
