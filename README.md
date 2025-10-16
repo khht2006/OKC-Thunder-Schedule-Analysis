@@ -11,3 +11,5 @@ OKC Thunder Schedule Analysis Project | Python, Pandas, Seaborn, Plotly, sklearn
 - Used Plotly to interactively visualize OKC and Denver’s respective 2024–25 schedules with a focus on scheduling density and travel distance.
 
 - Used sklearn to create a linear regression model predicting the total number of extra wins or losses that each NBA team obtained due to scheduling factors from 2015–2025.
+
+*Click on "view raw" to download the zip folder for access.
