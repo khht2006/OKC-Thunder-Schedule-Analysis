@@ -1,4 +1,4 @@
-# OKC-Thunder-Schedule-Analysis
+# OKC Thunder Schedule Analysis
 OKC Thunder Schedule Analysis Project | Python, Pandas, Seaborn, Plotly, sklearn
 (August 2025)
 
